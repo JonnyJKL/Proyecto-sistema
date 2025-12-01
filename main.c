@@ -17,10 +17,8 @@ int main(void) {
 
     }while (opcion <=0 || opcion>4);
 
-
-
-
     printf("\nSaliste del bucle...");
+    printf("\nLa prueba fue exitosa");
 
     return 0;
 }
